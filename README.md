@@ -16,8 +16,7 @@ git clone https://github.com/Jollyman811/Daily-AI-Fact-Widget.git
 Integrate the Widget:
 Copy the required files (index.html, script.js, styles.css, and the images folder) into your website's directory.
 Embed the widget in your site by including the following HTML where you want the widget to appear:
-html
-Copy code: <div class="ai-fact-widget"></div>
+copy html: `<div class="ai-fact-widget"></div>`
 Make sure to link the script.js and styles.css files in your main HTML file.
 Customization: You can easily customize the look and feel by modifying the styles.css file.
 Contributing
